@@ -1,6 +1,10 @@
 <<<<<<< HEAD
 #!/bin/bash
+<<<<<<< HEAD
 The school is open!
 =======
 School
 >>>>>>> d76701ec4ce4c926dcdd2a4201c87a7fd101953d
+=======
+#!/bin/bash
+>>>>>>> update_script
